@@ -2,7 +2,7 @@ package org.marcinfrackiewicz.algorithms.DFS;
 
 import java.util.List;
 
-import static org.marcinfrackiewicz.algorithms.Data.*;
+import static org.marcinfrackiewicz.algorithms.Utility.*;
 
 public class Solution {
     public static boolean[] visited = new boolean[size];
