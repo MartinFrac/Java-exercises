@@ -21,7 +21,7 @@ public class Solution {
         }
         visited[at] = true;
 
-        List<Integer> neighbours = adjacencyList.get(at);
+        List<Integer> neighbours = undirectedGraph.get(at);
         System.out.println("im at: " + at);
         previous = at;
         for (int next: neighbours) {
