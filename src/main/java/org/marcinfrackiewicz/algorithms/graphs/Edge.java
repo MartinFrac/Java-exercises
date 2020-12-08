@@ -1,4 +1,4 @@
-package org.marcinfrackiewicz.algorithms;
+package org.marcinfrackiewicz.algorithms.graphs;
 
 public class Edge {
     public int from, to, weight;

@@ -1,9 +1,9 @@
-package org.marcinfrackiewicz.algorithms.dagShortestPath;
+package org.marcinfrackiewicz.algorithms.graphs.dagShortestPath;
 
-import org.marcinfrackiewicz.algorithms.Edge;
+import org.marcinfrackiewicz.algorithms.graphs.Edge;
 import org.marcinfrackiewicz.algorithms.Utility;
 
-import static org.marcinfrackiewicz.algorithms.Topsort.Solution.topsort;
+import static org.marcinfrackiewicz.algorithms.graphs.Topsort.Solution.topsort;
 
 import java.util.Arrays;
 import java.util.List;

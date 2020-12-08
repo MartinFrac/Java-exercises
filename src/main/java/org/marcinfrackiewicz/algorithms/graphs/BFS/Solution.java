@@ -1,4 +1,4 @@
-package org.marcinfrackiewicz.algorithms.BFS;
+package org.marcinfrackiewicz.algorithms.graphs.BFS;
 
 import java.util.*;
 import static org.marcinfrackiewicz.algorithms.Utility.*;

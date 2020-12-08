@@ -1,6 +1,6 @@
-package org.marcinfrackiewicz.algorithms.Topsort;
+package org.marcinfrackiewicz.algorithms.graphs.Topsort;
 
-import org.marcinfrackiewicz.algorithms.Edge;
+import org.marcinfrackiewicz.algorithms.graphs.Edge;
 import org.marcinfrackiewicz.algorithms.Utility;
 
 import java.util.Arrays;

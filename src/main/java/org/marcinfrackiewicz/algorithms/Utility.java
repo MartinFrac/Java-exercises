@@ -1,5 +1,7 @@
 package org.marcinfrackiewicz.algorithms;
 
+import org.marcinfrackiewicz.algorithms.graphs.Edge;
+
 import java.util.*;
 
 public class Utility {

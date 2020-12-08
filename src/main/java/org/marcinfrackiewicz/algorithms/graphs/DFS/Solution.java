@@ -1,4 +1,4 @@
-package org.marcinfrackiewicz.algorithms.DFS;
+package org.marcinfrackiewicz.algorithms.graphs.DFS;
 
 import java.util.List;
 
